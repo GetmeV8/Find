@@ -85,7 +85,7 @@ const Todo = () => {
               cursor: "pointer"
             }}
           >
-            Remov
+            Remove
           </button>
         </div>
       ))}
